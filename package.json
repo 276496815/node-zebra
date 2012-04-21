@@ -1,0 +1,13 @@
+{
+  "name": "zebra",
+  "version": "0.0.0",
+  "description": "A barcode parser for Node.js",
+  "keywords": ["barcode","parse","parser","product","upc","ean"],
+  "homepage": "https://github.com/spennington/node-zebra",
+  "author": "Steve Pennington <pennington.15@gmail.com> (http://www.linkedin.com/in/stevenpennington)",
+  "main": "./zebra",
+  "repository": { "type" : "git", "url" : "https://spennington@github.com/spennington/node-zebra.git" },
+    "engines": {
+    "node": "*"
+  }
+}
